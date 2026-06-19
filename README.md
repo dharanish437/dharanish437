@@ -18,18 +18,17 @@
 ```javascript
 const dharanishwaran = {
   role        : "Full-Stack Software Engineer",
-  experience  : "7+ months (production)",
-  location    : "Tamil Nadu, India 🇮🇳",
+  experience  : "2+ Years",
+  location    : "Coimbatore, Tamil Nadu, India 🇮🇳",
   company     : "NavaDhiti Business Consultancy Services Pvt. Ltd.",
-  focus       : ["React", "Flutter", "Node.js", "Python", "Django"],
-  domains     : ["Sports", "Education", "E-Commerce", "Automotive", "Enterprise"],
-  payments    : ["PayPal", "Razorpay", "CCAvenue", "HDFC SmartGateway"],
+  focus       : ["Full Stack", "PWA", "AI Integration", "LLM APIs", "TypeScript"],
   ai          : {
-    tools       : ["Gemini AI", "Whisper", "ElevenLabs", "Bhashini LLM"],
-    integration : ["Speech Analysis", "LLM APIs", "Image Processing"],
+    primary     : "Claude AI",
+    tools       : ["GitHub Copilot", "ChatGPT", "Gemini"],
+    integration : ["Claude API", "LLM APIs", "OCR", "ASR", "TTS"],
   },
   currentWork : ["BNA – Architecture PM Platform", "PEP – Sports Psychology App"],
-  openTo      : ["Full-time roles", "Freelance projects", "Interesting collaborations"],
+  openTo      : ["Full-time roles", "AI-first product teams", "Freelance projects"],
 };
 ```
 
