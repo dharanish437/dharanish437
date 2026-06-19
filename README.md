@@ -187,7 +187,7 @@ const dharanishwaran = {
 
 | 👥 Users Served | 🚀 Production Apps | 🔗 Integrations Built | 🛠 REST APIs Developed | 💳 Payment Gateways |
 | :-------------: | :----------------: | :-------------------: | :--------------------: | :-----------------: |
-|     4,000+      |         7          |         10+           |         150+           |          4          |
+|     4,000+      |         7          |         10+           |         500+           |          4          |
 
 </div>
 
