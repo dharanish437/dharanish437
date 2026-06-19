@@ -105,3 +105,119 @@
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white)
 
 ---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><strong>🏗️ BNA</strong> — Project Management Platform for Architecture Firms &nbsp;<code>Apr 2026 – Present</code></summary>
+<br/>
+
+Developed a project management platform for architecture firms supporting **200+ users**, **2,000+ tasks**, and **100+ projects** through task tracking, workflow automation, collaboration, and role-based access control.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+</details>
+
+---
+
+<details>
+<summary><strong>🔧 6TH MILE</strong> — Automotive Workshop Operations Platform &nbsp;<code>Mar – May 2026</code></summary>
+<br/>
+
+Engineered a full-stack Django operations platform for automotive workshops, processing **100+ job cards and invoices per month** across **10+ workshops** and reducing manual reconciliation efforts by **30%**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
+![Zoho](https://img.shields.io/badge/Zoho-E42527?style=flat-square&logo=zoho&logoColor=white)
+
+</details>
+
+---
+
+<details>
+<summary><strong>🛒 NALMEN</strong> — Hybrid E-Commerce Platform &nbsp;<code>Mar – Apr 2026</code></summary>
+<br/>
+
+Built a hybrid e-commerce platform supporting **20+ organizations** and **1,000+ products**, streamlining catalog management, order processing, and multi-organization operations.
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+</details>
+
+---
+
+<details>
+<summary><strong>📚 KARUNODAYA</strong> — AI-Powered Reading Assessment Platform &nbsp;<code>Mar – Apr 2026</code></summary>
+<br/>
+
+Designed an AI-powered educational platform that assesses reading skills for **500+ children** and delivers personalized book recommendations using speech analysis and large language models.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![Bhashini LLM](https://img.shields.io/badge/Bhashini_LLM-FF6B35?style=flat-square&logoColor=white)
+
+</details>
+
+---
+
+<details>
+<summary><strong>🏃 PEP</strong> — Sports Psychology & Nutrition Platform &nbsp;<code>Dec 2025 – Present</code></summary>
+<br/>
+
+Developed a sports psychology and nutrition platform serving **2,000+ athletes and sports professionals**, supporting assessments, session scheduling, payments, notifications, and expert consultations.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white)
+
+</details>
+
+---
+
+<details>
+<summary><strong>🎓 EDUCATORS ARENA</strong> — Social Networking for Educators &nbsp;<code>Apr – Dec 2025</code></summary>
+<br/>
+
+Built a social networking and community engagement platform serving **1,500+ active users**, enabling content management, forum discussions, event management, and social sharing features.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+</details>
+
+---
+
+<details>
+<summary><strong>🐾 WILDWAY</strong> — Geospatial Wildlife Management Platform &nbsp;<code>Nov 2024 – Apr 2025</code></summary>
+<br/>
+
+Engineered a geospatial wildlife management platform that tracks **500+ animals** and processes **5,000+ field images** using Gemini AI for health monitoring and conservation efforts.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+
+</details>
+
+---
