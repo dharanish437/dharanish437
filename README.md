@@ -7,11 +7,27 @@
   🏢 NavaDhiti Business Consultancy Services &nbsp;|&nbsp; 📍 Tamil Nadu, India
 </p>
 
-<p align="center">
-  Full-Stack Software Engineer building scalable web and mobile applications across sports, education,
-  e-commerce, automotive, and enterprise domains. Skilled in React, Node.js, Python, Django, and Flutter —
-  with a track record of delivering production-ready solutions serving thousands of users.
-</p>
+## 👨‍💻 About Me
+
+```javascript
+const dharanishwaran = {
+  role        : "Full-Stack Software Engineer",
+  experience  : "7+ months (production)",
+  location    : "Tamil Nadu, India 🇮🇳",
+  company     : "NavaDhiti Business Consultancy Services Pvt. Ltd.",
+  focus       : ["React", "Flutter", "Node.js", "Python", "Django"],
+  domains     : ["Sports", "Education", "E-Commerce", "Automotive", "Enterprise"],
+  payments    : ["PayPal", "Razorpay", "CCAvenue", "HDFC SmartGateway"],
+  ai          : {
+    tools       : ["Gemini AI", "Whisper", "ElevenLabs", "Bhashini LLM"],
+    integration : ["Speech Analysis", "LLM APIs", "Image Processing"],
+  },
+  databases   : ["MongoDB", "PostgreSQL", "MySQL"],
+  cloud       : ["AWS S3", "Google Cloud", "Supabase", "Firebase", "Docker"],
+  currentWork : ["BNA – Architecture PM Platform", "PEP – Sports Psychology App"],
+  openTo      : ["Full-time roles", "Freelance projects", "Interesting collaborations"],
+};
+```
 
 <p align="center">
   <img src="https://img.shields.io/badge/7%20Production%20Apps-0d1117?style=flat-square" />
