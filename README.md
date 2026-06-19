@@ -1,11 +1,17 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dharanishwaran+M+%F0%9F%91%8B;Full-Stack+Software+Engineer;React+%26+Flutter+Developer;API+Architect;Node.js+%26+Python+Engineer" alt="Typing SVG" />
-</p>
+# <div align="center">Dharanishwaran M</div>
 
-<p align="center">
-  <strong>Full-Stack Software Engineer</strong> · React · Flutter · Node.js · Python · Django<br/>
-  🏢 NavaDhiti Business Consultancy Services &nbsp;|&nbsp; 📍 Tamil Nadu, India
-</p>
+<div align="center">
+
+**Full-Stack Software Engineer · React · Flutter · Node.js · Python**
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharanishwaran-m-b01937221)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharanishwaran128@gmail.com)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=React+%26+Flutter+Developer;Node.js+%26+Python+Engineer;API+Architect;Full-Stack+Engineer" alt="Typing SVG" />
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
