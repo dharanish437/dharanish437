@@ -235,3 +235,27 @@ Engineered a geospatial wildlife management platform that tracks **500+ animals*
 </p>
 
 ---
+
+## 📬 Let's Connect
+
+<p align="center">
+  Open to full-time roles, freelance projects, and interesting collaborations.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/dharanishwaran-m-b01937221">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:dharanishwaran128@gmail.com">
+    <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="tel:+918610122127">
+    <img src="https://img.shields.io/badge/%2B91_8610122127-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>⭐ If you find my work interesting, feel free to star a repo!</sub>
+</p>
