@@ -185,9 +185,9 @@ const dharanishwaran = {
 
 <div align="center">
 
-| 👥 Users Impacted | ⚡ Max Perf Gain | 🔌 Integrations Built | 📉 Manual Work Reduced |
-| :---------------: | :--------------: | :-------------------: | :--------------------: |
-|      4,000+       |       30%        |         10+           |          30%           |
+| 👥 Users Served | 🚀 Production Apps | 🔌 API Endpoints | 💳 Payment Gateways | 🏢 Workshops Served |
+| :-------------: | :----------------: | :--------------: | :-----------------: | :-----------------: |
+|    4,000+       |         7          |     1,000+       |          4          |         10+         |
 
 </div>
 
