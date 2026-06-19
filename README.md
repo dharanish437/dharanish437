@@ -5,7 +5,7 @@
 ### Full Stack Software Engineer · React · Flutter · Node.js · Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharanishwaran-m-b01937221)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharanishwaran128@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=dharanishwaran128@gmail.com)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1A56A0&center=true&vCenter=true&width=580&lines=React+%7C+Flutter+%7C+Node.js+%7C+Python;Django+%7C+REST+APIs+%7C+Microservices;PayPal+%7C+Razorpay+%7C+CCAvenue+%7C+HDFC;Building+apps+used+by+4%2C000%2B+users)
 
@@ -248,7 +248,7 @@ I'm available for **full-time roles**, **freelance projects**, and **interesting
 If you're building something impactful, let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharanishwaran-m-b01937221)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharanishwaran128@gmail.com)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=dharanishwaran128@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dharanish437&label=Profile+Views&color=1a56a0&style=flat-square)
 
